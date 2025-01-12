@@ -7,5 +7,6 @@ torchvision
 torchtext
 transformers
 tools
-setuptools
+setuptoolsjoblib
+joblib
 
